@@ -1,0 +1,7 @@
+G:\course3\OAP\pr-32_prakt_16_1_OAP_Давыдова\pr-32_prakt_16_1_OAP_Давыдова\obj\Debug\pr-32_prakt_16_1_OAP_Давыдова.csproj.AssemblyReference.cache
+G:\course3\OAP\pr-32_prakt_16_1_OAP_Давыдова\pr-32_prakt_16_1_OAP_Давыдова\obj\Debug\pr-32_prakt_16_1_OAP_Давыдова.csproj.CoreCompileInputs.cache
+G:\course3\OAP\pr-32_prakt_16_1_OAP_Давыдова\pr-32_prakt_16_1_OAP_Давыдова\bin\Debug\pr-32_prakt_16_1_OAP_Давыдова.exe.config
+G:\course3\OAP\pr-32_prakt_16_1_OAP_Давыдова\pr-32_prakt_16_1_OAP_Давыдова\bin\Debug\pr-32_prakt_16_1_OAP_Давыдова.exe
+G:\course3\OAP\pr-32_prakt_16_1_OAP_Давыдова\pr-32_prakt_16_1_OAP_Давыдова\bin\Debug\pr-32_prakt_16_1_OAP_Давыдова.pdb
+G:\course3\OAP\pr-32_prakt_16_1_OAP_Давыдова\pr-32_prakt_16_1_OAP_Давыдова\obj\Debug\pr-32_prakt_16_1_OAP_Давыдова.exe
+G:\course3\OAP\pr-32_prakt_16_1_OAP_Давыдова\pr-32_prakt_16_1_OAP_Давыдова\obj\Debug\pr-32_prakt_16_1_OAP_Давыдова.pdb
